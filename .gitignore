@@ -1,0 +1,10 @@
+*.RData*
+*.Rhistory
+*.Rprofile
+__pycache__
+*.pyc
+*.exe
+*.zip
+*.rar
+*.idea
+/venv
